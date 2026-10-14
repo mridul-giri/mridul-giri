@@ -1,4 +1,4 @@
-## Hi there 👋
+21, engineer. building things.
 
 <!--
 **mridul-giri/mridul-giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
